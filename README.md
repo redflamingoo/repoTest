@@ -3,3 +3,4 @@ Zebra
 Ente
 Koala
 Tiger
+Katze
