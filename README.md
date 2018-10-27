@@ -4,3 +4,4 @@ Ente
 Koala
 Tiger
 Katze
+Hund
