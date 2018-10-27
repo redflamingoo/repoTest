@@ -1,3 +1,4 @@
 Giraffe
 Zebra
 Ente
+Koala
